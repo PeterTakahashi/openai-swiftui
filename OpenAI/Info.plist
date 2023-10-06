@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-8888663745575916~2162853625</string>
+	<key>GADIsAdManagerApp</key>
+	<true/>
+	<key>SKAdNetworkIdentifier</key>
+	<string>cstr6suwn9.skadnetwork</string>
+</dict>
+</plist>

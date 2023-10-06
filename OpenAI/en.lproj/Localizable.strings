@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  OpenAI
+
+  Created by Apple on 2023/04/04.
+  
+*/
+"Setting" = "Setting";
+"Chat" = "Chat";
+"Auto Voice Output" = "Auto Voice Output";
+"Language" = "Language";
+"Infomation" = "Infomation";
+"Privacy Policy" = "Privacy Policy";
+"Sign Out" = "Sign Out";
+"Input message" = "Input message";
+"Get 5 coins by watching an advertisement." = "Get 5 coins by watching an advertisement.";
